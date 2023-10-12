@@ -11,6 +11,7 @@
     "vue": "^3.3.4"
   },
   "devDependencies": {
+    "@antfu/eslint-config": "^0.34.1",
     "@vitejs/plugin-vue": "^4.3.4",
     "typescript": "^5.2.2",
     "vite": "^4.4.9",
@@ -18,7 +19,8 @@
     "electron": "^26.1.0",
     "electron-builder": "^24.6.4",
     "vite-plugin-electron": "^0.14.0",
-    "vite-plugin-electron-renderer": "^0.14.5"
+    "vite-plugin-electron-renderer": "^0.14.5",
+    "eslint": "^8.31.0"
   },
   "main": "dist-electron/main.js"
 }

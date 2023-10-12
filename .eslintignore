@@ -1,0 +1,8 @@
+node_modules
+dist
+# TODO 工程化后移除
+packages/platform-chrome-extension
+env
+*.png
+*.jpg
+&.gif
